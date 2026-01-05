@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Feroza Y - Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills, projects, and achievements in Cloud Computing, Cybersecurity, and Software Development.
@@ -270,3 +271,7 @@ Created with ❤️ by Feroza Y
 ---
 
 **Good luck with your portfolio! 🚀**
+=======
+# personal-portfolio
+This repository contains the source code for my Personal Portfolio Website, designed to showcase my projects, technical skills, experience, and learning journey as a developer. The portfolio serves as a central place where I highlight my work, demonstrate my problem-solving abilities, and share the technologies I actively use and explore.
+>>>>>>> 02e134e48a9c35f1afd7d5cd28ebe3ef86fa6f0b
