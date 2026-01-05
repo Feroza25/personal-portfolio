@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Feroza Y - Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills, projects, and achievements in Cloud Computing, Cybersecurity, and Software Development.
